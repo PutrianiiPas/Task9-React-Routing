@@ -1,3 +1,29 @@
+# Assignment 9 - Frontend Development - Frontend Routing & State Management
+
+```
+Nama: Putriani Pirma A. Sagala
+NRP: 5025231045
+Institut Teknologi Sepuluh Nopember Surabaya
+```
+
+### Struktur Folder
+```
+src
+ ┣ pages
+ ┃ ┣ Home.jsx
+ ┃ ┣ Movies.jsx
+ ┃ ┣ About.jsx
+ ┃ ┣ Contact.jsx
+ ┃ ┣ MovieDetail.jsx
+ ┃ ┗ NotFound.jsx
+ ┣ components
+ ┃ ┗ Navbar.jsx
+ ┣ data
+ ┃ ┗ movies.js
+ ┣ App.jsx
+ ┗ main.jsx
+```
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
